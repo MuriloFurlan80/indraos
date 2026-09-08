@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: all
 Maintainer: Desenvolvedor IndraOS <contato@indraos.com>
 Depends: plymouth, desktop-base
-Filename: /dev/null../../../../../repositorio-indraos/indraos-branding.deb
+Filename: ./indraos-branding.deb
 Size: 7526200
 MD5sum: 27f8817dbf31783290b2b2c870b9e83c
 SHA1: 59ea1f38e1d309093534c5468d9243b120f2f363
